@@ -1,5 +1,8 @@
 # 60 Days Of Data Science
 
+### **Current day:** 1
+</br>
+
 1. [Understand Data Science Interviews](./Day1.md)
     * Interview process
     * Sample Questions 
