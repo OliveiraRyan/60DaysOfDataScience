@@ -3,10 +3,10 @@
 ### **Current day:** 1
 </br>
 
-0. [Understand Data Science Interviews](./Day0.md)
+0. [Understand Data Science Interviews](./Days/Day0.md)
     * Interview process
     * Sample Questions 
-1. ???
+1. [Reviewing CSC343](./Days/Day1.md)
 
 ## <u>**Topics I want to touch on:**</u>
 * Brush up on SQL
