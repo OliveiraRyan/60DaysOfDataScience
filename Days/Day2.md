@@ -9,7 +9,7 @@
 * VARCHAR(n) = variable-length string of up to n characters.
   * Wrapped in single quotes
   * Two single quotes = real quote
-    * e.g. 'Joe''s Bar'
+    * e.g. 'Joe\'\'s Bar'
 
 **Declaring Keys**
 
@@ -60,7 +60,7 @@ CREATE TABLE Sells (
 
 ## <u>**Data Manipulation language (DML)**</u>
 
-### **Operations**
+### **<u>Operations</u>**
 * Rename attribute with **AS**
 * Compare a string to a pattern using
   * \<Attribute\> **LIKE** \<pattern\> **or** \<Attribute\> **NOT LIKE** \<pattern\>
@@ -89,7 +89,7 @@ CREATE TABLE Sells (
   * **Exists (\<subquery\>)** is true iff the sub-query is **<u>not empty</u>**.
 
 
-### **Union, Intersection, and Difference**
+### **<u>Union, Intersection, and Difference</u>**
 * **UNION**
   * All unique rows from both queries
   * **UNION ALL** includes duplicates as well
@@ -108,7 +108,7 @@ CREATE TABLE Sells (
     * i.e. **… UNION ALL …**
 
 
-## **Extra things to note:**
+### **<u>Extra things to note:</u>**
 **Logic in SQL is 3-pronged:**
 1. TRUE
 2. FALSE
@@ -128,18 +128,3 @@ SELECT b1.name, b2.name
 FROM Beers b1, Beers b2
 WHERE b1.manf = b2.manf AND b1.name < b2.name;
 ```
-
-
-## <u>**Aggregation, Joins, and Triggers**</u>
-
-### **Aggregation Operators**
-Column values are calculated, and a single value is returned.
-* Aggregation Operations are
-Column Operations!
-* SUM, AVG, COUNT, MIN, and MAX.
-  * Applied on a SELECT clause in a query
-* To eliminate duplicates use DISTINCT inside an aggregation.
-* NULL values are **NEVER** contributed to an aggregate operation
-
-
-### **Grouping**

@@ -1,6 +1,6 @@
 # 60 Days Of Data Science
 
-### **Current day:** 2
+### **Current day:** 3
 </br>
 
 0. [Understand Data Science Interviews](./Days/Day0.md)
@@ -14,9 +14,13 @@
    * Data Definition Language (DDL)
    * Data Manipulation Language (DML)
 3. [Reviewing CSC343 - Part 3](./Days/Day3.md)
+   * Aggregation
+   * Joins
+   * Triggers 
+4. [Reviewing CSC343 - Part 4](./Days/Day3.md)
    * Relational Algebra (RA)
    * Views and Indexes
-4. [Reviewing CSC343 - Part 4](./Days/Day4.md)
+5. [Reviewing CSC343 - Part 5](./Days/Day4.md)
    * Relational DB Design Theory
    * Transactions and Concurrency Control
 

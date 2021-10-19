@@ -15,7 +15,7 @@ Types of constraints:
 2. **Inter-relational constraints**
     * The most common is referential constraint
       * The reference from a row in one table to another table must be valid
-      * i.e. No dangling refreences exist!
+      * i.e. No dangling references exist!
 
 
 
