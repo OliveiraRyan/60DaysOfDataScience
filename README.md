@@ -10,10 +10,15 @@
    * Integrity Constraints
    * Keys (superkey, candidate, primary, foreign)
    * Entity Relationship (ER) Diagrams
-
-Next:
-   * DML
-   * DDL
+2. [Reviewing CSC343 - Part 2](./Days/Day2.md)
+   * Data Definition Language (DDL)
+   * Data Manipulation Language (DML)
+3. [Reviewing CSC343 - Part 3](./Days/Day3.md)
+   * Relational Algebra (RA)
+   * Views and Indexes
+4. [Reviewing CSC343 - Part 4](./Days/Day4.md)
+   * Relational DB Design Theory
+   * Transactions and Concurrency Control
 
 ## <u>**Topics I want to touch on:**</u>
 * Review CSC343
