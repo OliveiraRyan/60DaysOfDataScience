@@ -1,6 +1,6 @@
 # 60 Days Of Data Science
 
-### **Current day:** 3
+### **Current day:** 4
 </br>
 
 0. [Understand Data Science Interviews](./Days/Day0.md)
@@ -26,7 +26,7 @@
 
 ## <u>**Topics I want to touch on:**</u>
 * Review CSC343
-  * Queries, Joins, Relational Alg, etc.
+  * Queries, Joins, Relational Algebra, etc.
 * Brush up on SQL
 * Product-sense
 * Quantitative statistical/probability concepts review
