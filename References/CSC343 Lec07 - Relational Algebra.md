@@ -1,6 +1,6 @@
 # CSC343 Lec07: Relational Algebra
 
-Query Languages allow manupulation and <u>retrueval of data</u> from a database
+Query Languages allow manipulation and <u>retrieval of data</u> from a database
 * The relational model supports simple and powerful Query Languages
 * Query Languages != Programming Languages
     * Are not intended for complex calculations
@@ -110,6 +110,6 @@ Why bags?
 
 ## Expression Trees
 * Leaves are operands – either variables standing for relations or particular, constant relations.
-* Interior nodes are operators – applied to their child(ren).
+* Interior nodes are operators – applied to their children.
 * We traverse the tree from leaves-to-root (and apply the logic at each node)
 
