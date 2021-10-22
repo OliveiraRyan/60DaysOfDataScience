@@ -1,6 +1,6 @@
 # 60 Days Of Data Science
 
-### **Current day:** 4
+### **Current day:** 5
 </br>
 
 0. [Understand Data Science Interviews](./Days/Day0.md)
@@ -17,10 +17,13 @@
    * Aggregation
    * Joins
    * Triggers 
-4. [Reviewing CSC343 - Part 4](./Days/Day3.md)
+4. Small break from notes
+   * Reviewed conditional probability: 
+     * [Statsquest]([https://www.youtube.com/watch?v=_IgyaD7vOOA)
+5. [Reviewing CSC343 - Part 4](./Days/Day3.md)
    * Relational Algebra (RA)
    * Views and Indexes
-5. [Reviewing CSC343 - Part 5](./Days/Day4.md)
+6. [Reviewing CSC343 - Part 5](./Days/Day4.md)
    * Relational DB Design Theory
    * Transactions and Concurrency Control
 
