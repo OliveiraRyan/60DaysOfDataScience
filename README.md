@@ -1,6 +1,6 @@
 # 60 Days Of Data Science
 
-### **Current day:** 6
+### **Current day:** 7
 **Days missed:** 3
 
 </br>
