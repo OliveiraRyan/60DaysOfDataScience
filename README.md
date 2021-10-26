@@ -5,42 +5,47 @@
 
 </br>
 
-0. [Understand Data Science Interviews](./Days/Day0.md)
+0. [Understand Data Science Interviews](./Notes/Day0.md)
    * Interview process
    * Sample Questions 
-1. [Reviewing CSC343 - Part 1](./Days/Day1.md)
+1. [Reviewing CSC343 - Part 1](./Notes/Day1.md)
    * Integrity Constraints
    * Keys (superkey, candidate, primary, foreign)
    * Entity Relationship (ER) Diagrams
-2. [Reviewing CSC343 - Part 2](./Days/Day2.md)
+2. [Reviewing CSC343 - Part 2](./Notes/Day2.md)
    * Data Definition Language (DDL)
    * Data Manipulation Language (DML)
-3. [Reviewing CSC343 - Part 3](./Days/Day3.md)
+3. [Reviewing CSC343 - Part 3](./Notes/Day3.md)
    * Aggregation
    * Joins
    * Triggers 
-4. Small break from notes
-   * Reviewed conditional probability: 
-     * [Statsquest]([https://www.youtube.com/watch?v=_IgyaD7vOOA)
-5. [Reviewing CSC343 - Part 4](./Days/Day3.md)
+4. Reviewing conditional probability: 
+   * [Stats Review Sheet](./Notes/Quantitative_Stats_Review.md)
+   * [Statsquest vid]([https://www.youtube.com/watch?v=_IgyaD7vOOA)
+5. [Reviewing CSC343 - Part 4](./Notes/Day3.md)
    * Relational Algebra (RA)
    * Views and Indexes
-6. [Reviewing CSC343 - Part 5](./Days/Day4.md)
-   * Relational DB Design Theory
-   * Transactions and Concurrency Control
+6. Reviewing Bayes Theorem
+   * [Stats Review Sheet](./Notes/Quantitative_Stats_Review.md)
+   * [Statsquest Bayes' THeorem]([https://www.youtube.com/watch?v=_IgyaD7vOOA)
+
+## <u>**Goals:**</u>
+* 1 sql practice question a day
 
 ## <u>**Topics I want to touch on:**</u>
 * Review CSC343
-  * Queries, Joins, Relational Algebra, etc.
+  * [Reviewing CSC343 - Part 5]()
+    * Relational DB Design Theory
+    * Transactions and Concurrency Control
 * Brush up on SQL
 * Product-sense
 * Quantitative statistical/probability concepts review
   * Bayes Theorem 
-  * Conditional Probability
+  * Confidence Interval
   * Hypothesis Testing
   * P-Value
-  * Confidence Interval
   * Basic Distributions (i.e. Bernoulli, Binomial, Normal)
+  * [Naive Bayes]([https://www.youtube.com/watch?v=_IgyaD7vOOA)
 * Review NN and ML
   * Redo/revive past projects
 * Data cleaning
