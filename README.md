@@ -1,6 +1,8 @@
 # 60 Days Of Data Science
 
-### **Current day:** 5
+### **Current day:** 6
+**Days missed:** 3
+
 </br>
 
 0. [Understand Data Science Interviews](./Days/Day0.md)
